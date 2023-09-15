@@ -35,7 +35,7 @@ En esta ocasión se buscó poder visualizar de manera sencilla cuál es la parti
 
 # Gráfico de emisiones de GEI por sector productivo para el año 2016 en Argentina
 
-<img src="/home/anker/datasetemisionesgei/grafico2016.png" alt="Grafico de barras de emisiones de GEI por sector productivo" width="90%">
+<img src="/grafico2016.png" alt="Grafico de barras de emisiones de GEI por sector productivo" width="90%">
 
 <br>
 
@@ -47,7 +47,7 @@ En esta ocasión se buscó poder visualizar de manera sencilla cuál es la parti
 
 # Gráfico de emisiones de GEI por sector productivo para el año 2018 en Argentina
 
-<img src="/home/anker/datasetemisionesgei/grafico2018.png" alt="Grafico de barras de emisiones de GEI por sector productivo" width="90%">
+<img src="/grafico2018.png" alt="Grafico de barras de emisiones de GEI por sector productivo" width="90%">
 
 
 <br>
