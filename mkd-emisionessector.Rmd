@@ -1,0 +1,66 @@
+---
+title: "Emisiones de Gases de Efecto Invernadero(GEI) por sector productivo"
+author: "Anker Díaz Nocera"
+date: "Septiembre de 2023"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+    collapsed: yes
+    smooth_scroll: yes
+    theme: sandstone
+    highlight: kate
+    df_print: paged
+    code_folding: show
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+---
+
+<br><br>
+# Introducción
+
+Esta visualización forma parte de mi proyecto final de certificación profesional en análisis de datos.
+Para realizarla utilicé conjuntos de datos públicos elaborados por organismos gubernamentales de Argentina. 
+Cabe destacar que, si bien la fuente es confiable, no fue posible acceder a información respecto a la forma de obtención y procesamiento de los datos. A su vez, por falta de disponibilidad de datos, y en algunos casos de incompatibilidad entre los conjuntos de datos, tuve que adaptar mis preguntas y obetivos de análisis. <br>
+El dataset utilizado fue realizado por la Secretaría de Ambiente y Desarrollo Sustentable de la Argentina. 
+
+En esta ocasión se buscó poder visualizar de manera sencilla cuál es la participación de emisión de GEI de los diferentes sectores productivos en la Argentina, para poder evaluar medidas efectivas de mitigación del cambio climático que pongan el foco en aquellos sectores que producen mayor cantidad de emisiones. 
+
+
+<br>
+
+
+
+# Gráfico de emisiones de GEI por sector productivo para el año 2016 en Argentina
+
+<img src="/home/anker/datasetemisionesgei/grafico2016.png" alt="Grafico de barras de emisiones de GEI por sector productivo" width="90%">
+
+<br>
+
+*La unidad de medida que se utiliza es la Tonelada métrica equivalente de dióxido de  carbono (MTCO2e), es la medida estándar utilizada a nivel mundial. Incluye diferentes gases de efecto invernadero, como el dióxido de carbono, el metano y el óxido nitroso.
+
+
+<br><br>
+
+
+# Gráfico de emisiones de GEI por sector productivo para el año 2018 en Argentina
+
+<img src="/home/anker/datasetemisionesgei/grafico2018.png" alt="Grafico de barras de emisiones de GEI por sector productivo" width="90%">
+
+
+<br>
+
+*La unidad de medida que se utiliza es la Tonelada métrica equivalente de dióxido de  carbono (MTCO2e), es la medida estándar utilizada a nivel mundial. Incluye diferentes gases de efecto invernadero, como el dióxido de carbono, el metano y el óxido nitroso.
+
+
+<br><br>
+
+# Anáisis
+
+En ambos gráficos puede observarse que los sectores que presentan mayores emisiones de gases de efecto invernadero son el energético y el sector de uso productivo de la tierra (agricultura, ganadería, silvicultura y otros). Sería importante conocer los datos desagregados de ambos sectores para poder trabajar con mayor especificidad ya que, por ejemplo, las distintas actividades de uso productivo de la tierra no tienen la misma participación en las emisiones de GEI.
+<br>
+Las variaciones entre el año 2016 y 2018 son prácticamente imperceptibles, lo que pone de relieve la importancia de tomar medidas estructurales que modifiquen la matriz productiva y de consumo para adoptar un modelo que disminuya las emisiones de GEI significativamente.
+
+---
